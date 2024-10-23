@@ -1,0 +1,10 @@
+
+/node_modules
+/configstore
+/bat
+/nvim.bak
+
+gdu_linux_amd64
+package-lock.json
+package.json
+
